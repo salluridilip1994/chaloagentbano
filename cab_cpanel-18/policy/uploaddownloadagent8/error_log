@@ -1,0 +1,153 @@
+[14-Nov-2019 09:26:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 47
+[14-Nov-2019 09:27:31 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:27:31 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 28
+[14-Nov-2019 09:28:34 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:28:34 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 28
+[14-Nov-2019 09:32:25 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:32:25 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:32:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 28
+[14-Nov-2019 09:34:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 2
+[14-Nov-2019 09:34:46 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:34:46 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:34:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 21
+[14-Nov-2019 09:34:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 10
+[14-Nov-2019 09:34:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 40
+[14-Nov-2019 09:34:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 10
+[14-Nov-2019 09:34:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 40
+[14-Nov-2019 09:34:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 10
+[14-Nov-2019 09:34:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 40
+[14-Nov-2019 09:34:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 46
+[14-Nov-2019 09:34:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 47
+[14-Nov-2019 09:35:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 10
+[14-Nov-2019 09:35:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 40
+[14-Nov-2019 09:35:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 46
+[14-Nov-2019 09:35:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index.php on line 47
+[14-Nov-2019 09:36:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 2
+[14-Nov-2019 09:36:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:115
+Stack trace:
+#0 /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php(115): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 115
+[14-Nov-2019 09:36:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 2
+[14-Nov-2019 09:36:37 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:36:37 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 21
+[14-Nov-2019 09:39:08 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:39:08 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 28
+[14-Nov-2019 09:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 09:39:40 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:39:40 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 28
+[14-Nov-2019 09:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 09:42:31 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:42:31 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 28
+[14-Nov-2019 09:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 09:44:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 09:44:31 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 09:44:31 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 09:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 28
+[14-Nov-2019 10:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 10:30:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 10:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 10:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 10:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 117
+[14-Nov-2019 10:31:39 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 10:31:39 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 10:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 28
+[14-Nov-2019 10:35:33 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 10:35:33 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 10:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 116
+[14-Nov-2019 10:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 116
+[14-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 10:35:48 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 10:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 116
+[14-Nov-2019 10:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 116
+[14-Nov-2019 10:36:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 116
+[14-Nov-2019 10:36:51 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 10:36:51 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16
+[14-Nov-2019 10:36:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 116
+[14-Nov-2019 10:36:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fetch() in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php:116
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 116
+[14-Nov-2019 10:51:06 UTC] PHP Notice:  Undefined index: caption in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 15
+[14-Nov-2019 10:51:06 UTC] PHP Notice:  Undefined index: link in /home/nutantek/agent8.nutantek.com/uploaddownloadagent8/index1.php on line 16

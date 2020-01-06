@@ -1,0 +1,8 @@
+@media(min-width: 320px) and (max-width: 420px){
+ .container-fluid.p-2.midhead {
+    display: none;
+}
+body p{
+  padding: 3px;
+}
+  }

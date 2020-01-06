@@ -1,0 +1,8 @@
+body {
+	text-align: justify;
+}
+.card.p-3.hov:hover{
+	background-color: red;
+	color: white;
+	padding: 5px;
+}

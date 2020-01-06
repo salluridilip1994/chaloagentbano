@@ -1,0 +1,482 @@
+body{
+    overflow-x: hidden;
+}
+*{
+    scroll-behavior: smooth;
+}
+#header{
+    margin-top: -1.5%;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #1D4E9E;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+#myBtn:hover {
+    background-color:  #ffab00;
+}
+.nav.he
+{
+    width: 100%;
+}
+.nav.he li 
+{
+    margin-left: 5%;
+
+}
+.nav.he li a 
+{
+    color: black;
+}
+.navbar-nav li {
+    margin-left: 10PX;
+}
+.navbar-nav
+{
+    width: 100%;
+}
+
+.navbar-brand img{
+    height: 70px;
+    width: 175px;
+}
+nav.navbar.navbar-expand-lg.navbar-dark {
+    background-color: #BA151B;
+}
+section#index1 {
+    margin-top: -2%;
+}
+#res_header{
+    display: none;
+}
+.main-nav{
+    overflow: hidden;
+    height: 45px;
+    background: #003366;
+    visibility: visible;
+}
+.main-nav ul{
+    list-style-type: none;
+    position: absolute;
+}
+.main-nav ul li{
+    float: left;
+}
+.main-nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    margin-right: 13px;
+    display: inline-block;
+    border-right: 2px solid white;
+}
+.dropdown-menu a{
+    background: #005476;
+}
+#call_btn {
+    position: fixed;
+    z-index: 1;
+    left: -2.5%;
+    top: 45%;
+    transform: rotate(90deg);
+}
+#call_btn:hover::before{
+    margin-left: -15%;
+    content: '+91 991-047-8707';
+    display: block;
+    position: relative;
+    background: black;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+#register_btn{
+    position: fixed;
+    z-index: 1;
+    right: -4.2%;
+    top: 45%;
+    transform: rotate(90deg);
+}
+#index1 img{
+    height: 525px;
+    width: 100%;
+}
+.carousel-caption{
+    height: 500px;
+    width: 100%;
+    font-size: 40px;
+}
+#index14 img{
+    width: 350px;
+    height: 265px;
+}
+#counter{
+    background-image: url("img/barefoot-beach-cheerful-1574653.jpg");
+    background-size: cover;
+    text-align: center;
+}
+#circle{
+    border: 3px solid white;
+    border-radius: 50%;
+    padding: 5%;
+    width: 80%;
+}
+#index3{
+    margin: 2% 25%;
+}
+#index5 img{
+    height: 300px;
+    width: 100%;
+}
+#index7 a{
+    font-weight: bold;
+}
+.counter{
+    color: #FFBB33;
+    font-weight: bold;
+    font-size: 40px;
+}
+#index8 img{
+    width: 600px;
+    height: 450px;
+}
+#index10{
+    margin-left: 15%;
+}
+#index11 img{
+    margin-left: 15%;
+    width: 300px;
+    height: 60px;
+}
+#index12{
+    margin-left: 40%;
+}
+#index13 img{
+    width: 100%;
+}
+#info2 iframe{
+    width: 500px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    margin-left: 30%;
+    border-radius: 50%;
+    margin-top: -20%;
+}
+.lic-services img{
+    height: 75px;
+    width: 75px;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.lic-services a{
+    color: white;
+}
+.card-text{
+    color: white;
+}
+.lic-services .row{
+    margin-top: 5%;
+}
+.lic-services .card{
+    background: #1d4e9e;
+}
+#licPlan p{
+    color: white;
+}
+#benefits img{
+    height: 200px;
+    width: 195px;
+}
+#benefits h6{
+    font-weight: bold;
+}
+#procedure img{
+    margin-left: 20%;
+}
+#procedure .row{
+    margin-top: 5%;
+}
+#procedure .col{
+    border: 1px solid black;
+    margin: 2%;
+    padding: 2%;
+}
+#procedure h5{
+    font-weight: bold;
+}
+footer img{
+    background: white;
+    padding: 5px;
+}
+footer h5{
+    font-weight: bold;
+}
+.footer-area{
+    background-image: url("img/bgi.jpg");
+    background-size: cover;
+    color: white;
+    width: 100%;
+}
+.single-footer-widget ul li{
+        float: left;
+}
+.single-footer-widget h6{
+    margin-left: 25%;
+}
+.single-footer-widget ul li a{
+    color: white;
+    padding: 2px 15px;
+    display: inline-block;
+    border-right: 2px solid white;
+}
+#foot1{
+    margin: 5% 0 0 10%;
+}
+#foot-end{
+    margin-top: 2%;
+    text-align: center;
+}
+#foot-end a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    display: inline-block;
+    border-right: 2px solid white;
+}
+a.rainbow {
+    color:white;
+    text-decoration:none;
+    -webkit-animation:rainbow 2s linear infinite alternate;
+    -moz-animation:rainbow 2s linear infinite alternate;
+    -ms-animation:rainbow 2s linear infinite alternate;
+    -o-animation:rainbow 2s linear infinite alternate;
+    animation:rainbow 2s linear infinite alternate;
+}
+@media (max-width: 576px) {
+    #basicExampleNav{
+        text-align: center;
+        background: #1D4E9E;
+    }
+    #basicExampleNav ul li{
+        padding: 4px 0;
+    }
+    #basicExampleNav ul li a{
+        color: white;
+    }
+    #call_btn{
+        display: none;
+    }
+    #register_btn{
+       display: none;
+    }
+    #index4{
+        display: none;
+    }
+    #index1 img{
+        height: 450px;
+        width: 100%;
+    }
+    #index2{
+        text-align: center;
+    }
+    #index3{
+        margin: 0;
+        margin-top: 5%;
+    }
+    #index5 img{
+        height: 300px;
+        width: 100%;
+    }
+    #index6{
+        display: none;
+    }
+    #index7{
+        margin-left: auto;
+    }
+    #index8 img{
+        width: 100%;
+        height: 250px;
+    }
+    #index10{
+        margin-left: 0;
+    }
+    #index11{
+        margin-top: 5%;
+    }
+    #index11 img{
+        margin-left: 5%;
+        width: 275px;
+    }
+    #index12{
+        margin-left: 0;
+    }
+    #training1{
+        margin: 2% 15%;
+    }
+    #benefits img{
+        margin-left: 15%;
+    }
+    #procedure img{
+        margin-left: 0;
+        width: 100%;
+    }
+    #info1 img{
+        max-height: 1000px;
+    }
+    #info2 iframe{
+        width: 300px;
+    }
+    .nav{
+        display: none;
+    }
+    #res_header{
+        display: block;
+        margin-top: 2%;
+    }
+    .main-nav{
+        display: none;
+    }
+    .footer-area{
+        margin: 0;
+        padding: 0;
+    }
+    #foot1{
+        margin: 0;
+    }
+    #foot2{
+        padding: 5%;
+    }
+    #cont img{
+        display: none;
+    }
+
+}
+@-webkit-keyframes rainbow {
+    0%   {color:red;        }
+    10%  {color:orange;     }
+    20%  {color:gold;       }
+    30%  {color:yellow;     }
+    40%  {color:yellowgreen;}
+    50%  {color:green;      }
+    60%  {color:cyan;       }
+    70%  {color:blue;       }
+    80%  {color:violet;     }
+    90%  {color:magenta;    }
+    100% {color:indigo;     }
+}
+@-moz-keyframes rainbow {
+    0%   {color:red;        }
+    10%  {color:orange;     }
+    20%  {color:gold;       }
+    30%  {color:yellow;     }
+    40%  {color:yellowgreen;}
+    50%  {color:green;      }
+    60%  {color:cyan;       }
+    70%  {color:blue;       }
+    80%  {color:violet;     }
+    90%  {color:magenta;    }
+    100% {color:indigo;     }
+}
+@-ms-keyframes rainbow {
+    0%   {color:red;        }
+    10%  {color:orange;     }
+    20%  {color:gold;       }
+    30%  {color:yellow;     }
+    40%  {color:yellowgreen;}
+    50%  {color:green;      }
+    60%  {color:cyan;       }
+    70%  {color:blue;       }
+    80%  {color:violet;     }
+    90%  {color:magenta;    }
+    100% {color:indigo;     }
+}
+@-o-keyframes rainbow {
+    0%   {color:red;        }
+    10%  {color:orange;     }
+    20%  {color:gold;       }
+    30%  {color:yellow;     }
+    40%  {color:yellowgreen;}
+    50%  {color:green;      }
+    60%  {color:cyan;       }
+    70%  {color:blue;       }
+    80%  {color:violet;     }
+    90%  {color:magenta;    }
+    100% {color:indigo;     }
+}
+@keyframes rainbow {
+    0%   {color:red;        }
+    10%  {color:orange;     }
+    20%  {color:gold;       }
+    30%  {color:yellow;     }
+    40%  {color:yellowgreen;}
+    50%  {color:green;      }
+    60%  {color:cyan;       }
+    70%  {color:blue;       }
+    80%  {color:violet;     }
+    90%  {color:magenta;    }
+    100% {color:indigo;     }
+}
+
+.point ul  {
+display: inline-block;
+}
+
+.point li {
+  float: left;
+}
+.hh1
+{
+    margin-left: 2%;
+}
+@media (max-width: 1530px)
+{
+     .smooth-scroll.list-unstyled
+    {
+        width: 100%;
+    }
+   
+}
+
+.row .modelpaper
+{
+  margin-top:70%;
+}
+.mtq {
+    margin-top: -7%;
+}
+
+
+
+
+ul.nav.foot.pb-3 {
+    width: 100%;
+}
+ul.nav.foot.pb-3  li a{
+    margin-left: 2%
+}
+.ho li a:hover
+{
+    color: orange;
+}
+ul.nav.footernav {
+    margin-left: 52%;
+    margin-top: -15%;
+}
+
+ul.nav.footernav  li{
+    margin-left:2%;
+    
+}
+

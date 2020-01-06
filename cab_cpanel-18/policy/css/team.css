@@ -1,0 +1,94 @@
+
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+#bw {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+#bw:hover
+{
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+}
+
+h4.text-white.nn {
+    margin-top: -5%;
+}
+p#sh {
+    line-height: 0.3;
+}
+
+
+.overlay {
+  position: absolute; 
+  top: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba( 242, 244, 244 , 0.0); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  height:100%;
+}
+
+.col-md-3:hover .overlay {
+  opacity: 1;
+}
+
+
+ul.nav.tt {
+    width: 100;
+    width: 100%;
+    margin-left: 30%;
+}
+i#ss {
+    padding: 2%;
+    border: solid 1px white;
+    margin-left: 90%;
+    border-radius: 50%;
+}
+i#ssf {
+    padding: 2%;
+    border: solid 1px white;
+ 
+    border-radius: 50%;
+}
+i#ssl {
+    padding: 2%;
+    border: solid 1px white;
+ margin-left: 50%;
+    border-radius: 50%;
+}
+/*i#ssl:hover
+{
+ 
+ 
+ color: blue; 
+}*/
+.nn
+{
+  color: black!important;
+}
+

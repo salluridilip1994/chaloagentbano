@@ -1,0 +1,108 @@
+m[15-Nov-2019 12:41:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:41:58 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:45:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:45:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:46:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:46:14 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:46:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:46:29 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:49:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:49:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:51:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 12:51:00 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/nutantek/chaloagentbano.com/webmaster/initialization.php on line 8
+[15-Nov-2019 13:22:46 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[15-Nov-2019 13:22:46 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/subscribemail.php on line 26
+[15-Nov-2019 13:22:46 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/subscribemail.php on line 34
+[15-Nov-2019 13:25:54 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 5
+[15-Nov-2019 13:25:54 UTC] PHP Notice:  Undefined index: msg in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 6
+[15-Nov-2019 13:25:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[15-Nov-2019 13:25:54 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 27
+[15-Nov-2019 13:25:54 UTC] PHP Notice:  Undefined index: msg in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 35
+[15-Nov-2019 13:27:48 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 5
+[15-Nov-2019 13:27:48 UTC] PHP Notice:  Undefined index: msg in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 6
+[15-Nov-2019 13:27:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[15-Nov-2019 13:27:48 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 27
+[15-Nov-2019 13:27:48 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 35
+[15-Nov-2019 13:27:48 UTC] PHP Notice:  Undefined index: message in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 35
+[15-Nov-2019 13:29:39 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 5
+[15-Nov-2019 13:29:39 UTC] PHP Notice:  Undefined index: msg in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 6
+[15-Nov-2019 13:29:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[15-Nov-2019 13:29:39 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 27
+[15-Nov-2019 13:29:39 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 35
+[15-Nov-2019 13:29:39 UTC] PHP Notice:  Undefined index: message in /home/nutantek/chaloagentbano.com/feedbackmail.php on line 35
+[16-Nov-2019 03:29:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[16-Nov-2019 03:29:33 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/subscribemail.php on line 26
+[16-Nov-2019 03:29:33 UTC] PHP Notice:  Undefined index: email in /home/nutantek/chaloagentbano.com/subscribemail.php on line 34
+[16-Nov-2019 03:29:53 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[16-Nov-2019 03:59:51 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail.php on line 22
+[16-Nov-2019 04:01:19 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail.php on line 22
+[16-Nov-2019 04:08:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail.php on line 22
+[16-Nov-2019 04:13:09 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail1.php on line 22
+[16-Nov-2019 04:27:31 UTC] PHP Warning:  include_once(include/head.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 230
+[16-Nov-2019 04:27:31 UTC] PHP Warning:  include_once(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 230
+[16-Nov-2019 04:27:31 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 393
+[16-Nov-2019 04:27:31 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 393
+[16-Nov-2019 04:28:46 UTC] PHP Warning:  include_once(include/head.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 230
+[16-Nov-2019 04:28:46 UTC] PHP Warning:  include_once(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 230
+[16-Nov-2019 04:28:46 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 393
+[16-Nov-2019 04:28:46 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 393
+[16-Nov-2019 04:30:55 UTC] PHP Warning:  include_once(include/head.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 230
+[16-Nov-2019 04:30:55 UTC] PHP Warning:  include_once(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 230
+[16-Nov-2019 04:30:55 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 393
+[16-Nov-2019 04:30:55 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 393
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(include/head.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(include/getquote.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 200
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(): Failed opening 'include/getquote.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 200
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(include/referafriend.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 205
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(): Failed opening 'include/referafriend.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 205
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(include/faqs.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 214
+[16-Nov-2019 04:33:39 UTC] PHP Warning:  include_once(): Failed opening 'include/faqs.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 214
+[16-Nov-2019 04:35:11 UTC] PHP Warning:  include_once(include/head.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:35:11 UTC] PHP Warning:  include_once(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:35:11 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:35:11 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:35:40 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[16-Nov-2019 04:35:40 UTC] PHP Notice:  Undefined index: sub in /home/nutantek/chaloagentbano.com/contactemail.php on line 36
+[16-Nov-2019 04:35:40 UTC] PHP Notice:  Undefined index: msg in /home/nutantek/chaloagentbano.com/contactemail.php on line 36
+[16-Nov-2019 04:36:09 UTC] PHP Warning:  include_once(include/head.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:36:09 UTC] PHP Warning:  include_once(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:36:09 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:36:09 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:37:33 UTC] PHP Warning:  include_once(include/head.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:37:33 UTC] PHP Warning:  include_once(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:37:33 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:37:33 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:37:55 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[16-Nov-2019 04:37:56 UTC] PHP Notice:  Undefined index: sub in /home/nutantek/chaloagentbano.com/contactemail.php on line 36
+[16-Nov-2019 04:37:56 UTC] PHP Notice:  Undefined index: msg in /home/nutantek/chaloagentbano.com/contactemail.php on line 36
+[16-Nov-2019 04:40:05 UTC] PHP Warning:  include_once(include/head.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:40:05 UTC] PHP Warning:  include_once(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 34
+[16-Nov-2019 04:40:05 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:40:05 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 197
+[16-Nov-2019 04:42:18 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 196
+[16-Nov-2019 04:42:18 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 196
+[16-Nov-2019 04:43:02 UTC] PHP Warning:  include_once(include/footer.php): failed to open stream: No such file or directory in /home/nutantek/chaloagentbano.com/contactus.php on line 196
+[16-Nov-2019 04:43:02 UTC] PHP Warning:  include_once(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nutantek/chaloagentbano.com/contactus.php on line 196
+[16-Nov-2019 04:54:13 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail1.php on line 22
+[16-Nov-2019 06:00:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[16-Nov-2019 06:00:54 UTC] PHP Notice:  Undefined index: sub in /home/nutantek/chaloagentbano.com/contactemail.php on line 36
+[16-Nov-2019 06:00:54 UTC] PHP Notice:  Undefined index: msg in /home/nutantek/chaloagentbano.com/contactemail.php on line 36
+[17-Nov-2019 06:34:13 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail1.php on line 22
+[17-Nov-2019 06:35:46 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail1.php on line 22
+[17-Nov-2019 06:35:49 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail1.php on line 22
+[17-Nov-2019 06:38:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail1.php on line 22
+[17-Nov-2019 06:40:41 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail1.php on line 22
+[17-Nov-2019 06:41:34 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nutantek/chaloagentbano.com/registermail1.php on line 22
+[17-Nov-2019 06:43:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[17-Nov-2019 06:43:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/nutantek/chaloagentbano.com/phpmailer/PHPMailerAutoload.php on line 45
+[17-Nov-2019 06:55:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function inlude_once() in /home/nutantek/chaloagentbano.com/lic-forms.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/chaloagentbano.com/lic-forms.php on line 39
+[17-Nov-2019 06:55:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function inlude_once() in /home/nutantek/chaloagentbano.com/lic-forms.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/nutantek/chaloagentbano.com/lic-forms.php on line 39
